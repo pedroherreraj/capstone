@@ -1,2 +1,1 @@
-# capstone
-Diagnostico 
+# Evaluación diagnóstica python
